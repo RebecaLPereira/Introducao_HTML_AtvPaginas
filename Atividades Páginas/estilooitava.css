@@ -1,0 +1,23 @@
+h1 {
+    max-width: max-content;
+    /*colocar cor de fundo no maximmo da escrita*/
+    color: blue;
+    background-color: black;
+}
+
+p {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    background-color: royalblue;
+    font-family: monospace;
+    /*tipo de fonte na escrita*/
+    font-weight: bolder;
+}
+
+#osasco {
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+    /*comentario*/
+}
